@@ -1,0 +1,5 @@
+Para ejecutar el script de creacion de usuarios
+se debera ejecutar el archivo indexUser.js que esta ubicado en la carpeta server
+
+Usuario: jmori
+Contraseña : jmori
